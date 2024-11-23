@@ -1,13 +1,2 @@
 # BMI-Calculator
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
-# -insert-name-here
+ 
